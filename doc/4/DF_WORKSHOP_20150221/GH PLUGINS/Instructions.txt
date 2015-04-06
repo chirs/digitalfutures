@@ -1,0 +1,7 @@
+1) in rhino, run the GrasshopperFolders command and select Components
+
+2) copy all of the folders in this directory to the Libraries folder that Rhino just opened for you.
+
+3) go through all of the copied folders, and for each file, right click > unblock > apply > ok.  If there is no unblock button available when you right click, you are good to go!
+
+
