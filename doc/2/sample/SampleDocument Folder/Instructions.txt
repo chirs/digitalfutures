@@ -1,0 +1,92 @@
+ADOBE INDESIGN PRINTING INSTRUCTIONS FOR SERVICE PROVIDER REPORT
+
+PUBLICATION NAME: SampleDocument.indd
+
+PACKAGE DATE: 2/13/2015 5:38 PM
+Creation Date: 2/13/2015
+Modification Date: 2/13/2015
+
+CONTACT INFORMATION
+
+Company Name: 
+Contact: 
+Address: 
+
+
+
+
+
+Phone: 
+Fax: 
+Email: 
+
+SPECIAL INSTRUCTIONS AND OTHER NOTES
+
+
+
+
+
+
+External Plug-ins 0
+Non Opaque Objects :None
+
+FONTS
+5 Fonts Used; 0 Missing, 0 Embedded, 0 Incomplete, 0 Protected
+
+Fonts Packaged
+- Name: Arial-ItalicMT; Type: OpenType TrueType, Status: OK
+- Name: ArialMT; Type: OpenType TrueType, Status: OK
+- Name: Raleway-Light; Type: TrueType, Status: OK
+- Name: Raleway-Medium; Type: TrueType, Status: OK
+- Name: Raleway-Regular; Type: TrueType, Status: OK
+
+
+COLORS AND INKS
+4 Process Inks; 0 Spot Inks
+
+- Name and Type: Process Cyan; Angle: 0.000; Lines/Inch: 0.000
+- Name and Type: Process Magenta; Angle: 0.000; Lines/Inch: 0.000
+- Name and Type: Process Yellow; Angle: 0.000; Lines/Inch: 0.000
+- Name and Type: Process Black; Angle: 0.000; Lines/Inch: 0.000
+
+
+LINKS AND IMAGES
+(Missing & Embedded Links Only)
+Links and Images: 0 Links Found; 0 Modified, 0 Missing 0 Inaccessible
+Images: 0 Embedded, 0 use RGB color space
+
+PRINT SETTINGS
+PPD: N/A, (Send To OneNote 2010)
+Printing To: Printer
+Number of Copies: 1
+Reader Spreads: No
+Even/Odd Pages: Both
+Pages: All
+Proof: No
+Tiling: None
+Scale: 100%, 100%
+Page Position: Upper Left
+Print Layers: Visible & Printable Layers
+Printer's Marks: None
+Bleed: 0 in, 0 in, 0 in, 0 in
+Color: Composite RGB
+Trapping Mode: None
+Send Image Data: Optimized Subsampling
+OPI/DCS Image Replacement: No
+Page Size: Custom: 8.5 in x 8.5 in
+Paper Dimensions: 8.5 in x 11 in
+Orientation: Portrait
+Negative: No
+Flip Mode: Off
+
+
+FILE PACKAGE LIST
+
+1. SampleDocument.indd; type: Adobe InDesign publication; size: 2656K
+2. SampleDocument.idml; type: InDesign Markup Document; size: 177K
+3. SampleDocument.pdf; type: Adobe Acrobat Document; size: 898K
+4. ariali.ttf; type: Font file; size: 620K
+5. arial.ttf; type: Font file; size: 874K
+6. Raleway-Light.ttf; type: Font file; size: 176K
+7. Raleway-Medium.ttf; type: Font file; size: 173K
+8. Raleway-Regular.ttf; type: Font file; size: 172K
